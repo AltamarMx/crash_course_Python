@@ -32,6 +32,7 @@ Crash course de Python y Jupyter Notebook impartido en el IER-UNAM
 1. while
 1. for
 1. funciones
+1. Magic commands https://ipython.readthedocs.io/en/stable/interactive/magics.html
 
 ## Día 4: Manejo y visualización de datos con pandas Parte 1
 1. Introducción a pandas
