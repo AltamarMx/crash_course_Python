@@ -82,26 +82,3 @@ Crash course de Python y Jupyter Notebook impartido en el IER-UNAM
 1. Introducción a matplotlib y POO
 
 
-
-
-
-D
-/
-D t
- is the material derivative, defined as 
-∂
-/
-∂t
- + u ⋅ ∇,
-ρ is the density,
-u is the flow velocity,
-∇ ⋅ is the divergence,
-p is the pressure,
-t is time,
-τ is the deviatoric stress tensor, which has order 2,
-g represents body accelerations acting on the continuum, for example gravity, inertial accelerations, electrostatic accelerations, and so on,
-In this form, it is apparent that in the assumption of an inviscid fluid – no deviatoric stress – Cauchy equations reduce to the Euler equations.
-
-Assuming conservation of mass we can use the mass continuity equation (or simply continuity equation),
-
-{\displaystyle {\frac {\partial \rho }{\partial t}}+\nabla \cdot (\rho \,\mathbf {u} )=0}{\displaystyle {\frac {\partial \rho }{\partial t}}+\nabla \cdot (\rho \,\mathbf {u} )=0}
