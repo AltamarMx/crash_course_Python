@@ -81,4 +81,6 @@ Crash course de Python y Jupyter Notebook impartido en el IER-UNAM
     
 1. Introducción a matplotlib y POO
 
+1. Proyecto final
+
 
