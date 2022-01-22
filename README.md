@@ -1,4 +1,4 @@
-# crash_course_Python
+#i Crash Course de Python
 Crash course de Python y Jupyter Notebook impartido en el IER-UNAM
 
 
